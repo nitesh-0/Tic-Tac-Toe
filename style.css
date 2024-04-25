@@ -4,19 +4,19 @@
 }
 
 body {
-    background-color: rgb(199, 196, 196);
+    background-color: rgb(187, 185, 185);
     text-align: center;
 
 }
 
 main {
-    /* height: 70vh; */
+   
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     gap: 30px;
-    /* margin-top: 100px; */
+    
 }
 
 .container {
@@ -74,11 +74,3 @@ main {
     border-radius: 15px;
 }
 
-/* .msg-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    height: 100vh;
-} */
